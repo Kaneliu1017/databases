@@ -1,4 +1,4 @@
-# Databases — DAW Year 1
+# Databases
 Exercises and practice from the Databases module: relational database
 design, modeling and SQL.
 
